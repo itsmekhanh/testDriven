@@ -1,0 +1,7 @@
+.idea
+.Python
+bin
+functional_tests.py
+include
+lib
+pip-selfcheck.json
