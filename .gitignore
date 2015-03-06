@@ -5,3 +5,4 @@ functional_tests.py
 include
 lib
 pip-selfcheck.json
+superlists/db.sqlite3
